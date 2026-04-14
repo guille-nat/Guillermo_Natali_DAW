@@ -2,7 +2,9 @@
 
 - **Asignatura:** Desarrollo y Arquitecturas Web  
 - **Estudiante:** Guillermo Natali  
-- **Año:** 2026  
+- **Año:** 2026
+- **Comisión:** 4-A
+- **Turno:** Noche
 
 ---
 # Guillermo
