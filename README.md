@@ -10,10 +10,10 @@
 ## 🧠 Especialidades
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-APIs%20Escalables-00ffcc?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Arquitectura-Software-00ffcc?style=for-the-badge">
-  <img src="https://img.shields.io/badge/DevOps-Containers%20%26%20Deploy-00ffcc?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Performance-Optimización-00ffcc?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Backend-APIs%20Escalables-0d1117?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Arquitectura-Software-1f6feb?style=for-the-badge&logo=dependabot&logoColor=white">
+  <img src="https://img.shields.io/badge/DevOps-Containers%20%26%20Deploy-238636?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Performance-Optimización-d29922?style=for-the-badge&logo=speedtest&logoColor=white">
 </p>
 
 ---
