@@ -66,8 +66,8 @@
 ### Actividad 05 - Responsive (mobile-first)
 **Noticia clonada:** Irán anunció la creación de la Autoridad del Estrecho del Golfo Pérsico
 - **URL Original:** https://www.infobae.com/america/mundo/2026/05/18/iran-anuncio-oficialmente-la-creacion-de-la-autoridad-del-estrecho-del-golfo-persico-un-organismo-para-gestionar-el-paso-por-ormuz/
-- **Archivo HTML:** `clon_n2_noticia/actividad-05/index.html`
-- **Archivo CSS:** `clon_n2_noticia/actividad-05/styles.css`
+- **Archivo HTML:** `actividad-05/index.html`
+- **Archivo CSS:** `actividad-05/styles.css`
 - **Rama:** `actividad-05`
 - **Tecnologías:** HTML semántico, CSS externo, Mobile-first, Media Queries, Box Model
 
